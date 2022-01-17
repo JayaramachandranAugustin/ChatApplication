@@ -14,8 +14,10 @@ Client
 ![Chat screen](img/chat_screen.jpg "Chat screen")
 
 To start:
-    ### Client
+    
+### Client
         - npm install (in the react-client folder)
         - npm start
-    ### Server
+    
+### Server
         - mvn spring-boot:run (in the spring-ws-server)
